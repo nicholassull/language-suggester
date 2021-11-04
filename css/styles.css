@@ -3,6 +3,10 @@ body {
   margin: auto;
 }
 
+.hidden {
+  display: none;
+}
+
 #answer-container {
   text-align: center;
 }
