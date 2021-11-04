@@ -7,6 +7,8 @@ $(document).ready(function() {
     const a5 = parseInt($("input:radio[name=question5-radios]:checked").val());
     const total = a1 + a2 + a3 + a4 + a5;
 
+    $(".hidden").hide();
+
     if (total <= 7 ) {
       $("#c-answer").show();
     } else if (total > 7 && total <= 12) {
