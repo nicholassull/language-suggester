@@ -17,6 +17,7 @@ $(document).ready(function() {
       $("#python-answer").show();
     }
 
+    window.scrollTo(0,document.body.scrollHeight);
     event.preventDefault();
   });
 });
