@@ -10,6 +10,13 @@ body {
 #answer-container {
   text-align: center;
 }
+.answer {
+  background-color: rgb(228, 228, 178);
+  padding: 30px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
 .suggestion {
   font-style: italic;
   font-size: 1.1em;
