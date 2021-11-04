@@ -8,11 +8,11 @@ $(document).ready(function() {
     const total = a1 + a2 + a3 + a4 + a5;
 
     if (total <= 7 ) {
-      console.log('c#');
+      $("#c-answer").show();
     } else if (total > 7 && total <= 12) {
-      console.log('JS');
+      $("#javascript-answer").show();
     } else {
-      console.log('Python');
+      $("#python-answer").show();
     }
 
     event.preventDefault();
