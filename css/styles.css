@@ -3,6 +3,9 @@ body {
   margin: auto;
 }
 
+#answer-container {
+  text-align: center;
+}
 .suggestion {
   font-style: italic;
   font-size: 1.1em;
