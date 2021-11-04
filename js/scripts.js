@@ -8,9 +8,11 @@ $(document).ready(function() {
     const total = a1 + a2 + a3 + a4 + a5;
 
     if (total <= 7 ) {
-
+      console.log('c#');
     } else if (total > 7 && total <= 12) {
-
+      console.log('JS');
+    } else {
+      console.log('Python');
     }
 
     event.preventDefault();
