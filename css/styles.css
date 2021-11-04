@@ -1,0 +1,9 @@
+body {
+  max-width: 950px;
+  margin: auto;
+}
+
+.suggestion {
+  font-style: italic;
+  font-size: 1.1em;
+}
