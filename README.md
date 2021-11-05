@@ -14,7 +14,7 @@
 
 ## Description
 
-__
+_This is a 5-question quiz that uses radial inputs to receive a user's answer. Using simple branching logic, the webpage will reveal which programming language (out of JavaScript, Python, and C#) that the user should learn. This project is meant to demonstrate my understanding of branching and the use of 'if', 'else if', and 'else' statements._
 
 ## Setup Instructions
 
