@@ -10,11 +10,11 @@ $(document).ready(function() {
     $(".hidden").hide();
 
     if (total <= 7 ) {
-      $("#c-answer").show();
+      $("#c-answer").fadeIn();
     } else if (total > 7 && total <= 12) {
-      $("#javascript-answer").show();
+      $("#javascript-answer").fadeIn();
     } else {
-      $("#python-answer").show();
+      $("#python-answer").fadeIn();
     }
 
     window.scrollTo(0,document.body.scrollHeight);
