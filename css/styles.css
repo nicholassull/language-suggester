@@ -23,6 +23,7 @@ main {
   margin-top: 20px;
   margin-bottom: 50px;
   border-radius: 10px;
+  border:rgb(248, 225, 221) double 8px;
 }
 .suggestion {
   font-style: italic;
