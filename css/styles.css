@@ -8,6 +8,12 @@ body {
   display: none;
 }
 
+.jumbotron {
+  background-color: rgb(196, 240, 225);
+  border-radius: 10px;
+  border:rgb(248, 225, 221) double 8px;
+}
+
 main {
   background-color: rgb(245, 239, 217);
   padding: 20px;
