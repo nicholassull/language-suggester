@@ -1,12 +1,16 @@
-# _Title_
+# _Programming Language Suggester_
 
 #### By _**Nick Sullivan**_
 
-#### _Short description_
+#### _A short quiz to find out which programming language suits you best._
 
 ## Technologies Used
 
-* __
+* _HTML_
+* _CSS_
+* _JavaScript_
+* _Bootstrap_
+* _jQuery_
 
 ## Description
 
