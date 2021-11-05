@@ -17,6 +17,7 @@ body {
 main {
   background-color: rgb(245, 239, 217);
   padding: 20px;
+  border-radius: 10px;
 }
 
 
