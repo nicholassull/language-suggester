@@ -20,7 +20,7 @@ _This is a 5-question quiz that uses radial inputs to receive a user's answer. U
 
 * _Open your terminal and navigate to the folder you'd like to download the files into._
 * _Run the command below_
-> git clone https://github.com/nicholassull/portfolio-landing
+> git clone https://github.com/nicholassull/language-suggester.git
 * _Open index.html_
 
 
