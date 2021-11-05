@@ -20,6 +20,9 @@ main {
   border-radius: 10px;
 }
 
+p {
+  text-align: center;
+}
 
 #answer-container {
   text-align: center;
