@@ -8,6 +8,12 @@ body {
   display: none;
 }
 
+main {
+  background-color: rgb(245, 239, 217);
+  padding: 20px;
+}
+
+
 #answer-container {
   text-align: center;
 }
